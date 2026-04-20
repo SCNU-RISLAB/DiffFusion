@@ -1,5 +1,7 @@
 # DiffFusion
 
+![DiffFusion Framework](assets/framework.png)
+
 Official repository for the paper:
 
 **Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather**

@@ -1,6 +1,6 @@
 # DiffFusion
 
-![DiffFusion Framework](assets/framework.png)
+![DiffFusion Framework](assets/fig2.pdf)
 
 Official repository for the paper:
 
